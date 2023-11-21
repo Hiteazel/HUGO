@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.site-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.site-content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-footer {
+    position: fixed;
+    bottom: 5px;
+    width: 75%;
+    background-color: #f4f4f4;
+    padding-left: 25px;
+}

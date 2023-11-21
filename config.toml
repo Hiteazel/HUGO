@@ -1,0 +1,27 @@
+baseURL = ''
+languageCode = 'fr-FR'
+title = 'Test 2'
+theme = "custom"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  editURL = ""
+  author = "Brandon VO"
+  description = ""
+  showVisitedLinks = false
+  disableSearch = false
+  disableAssetsBusting = false
+  disableInlineCopyToClipBoard = true
+  disableShortcutsTitle = false
+  disableLandingPageButton = false
+  disableLanguageSwitchingButton = true
+  disableBreadcrumb = false
+  disableMermaid = true
+  customMermaidURL = "https://unpkg.com/mermaid@8.8.0/dist/mermaid.min.js"
+  disableNextPrev = true
+  ordersectionsby = "weight"
+  themeVariant = ""
+  custom_css = ["css/foo.css", "css/bar.css"]
+  titleSeparator = "-"
