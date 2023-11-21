@@ -17,4 +17,4 @@ Prérequis : Avoir un compte GitHub, ainsi que le repo qu'on souhaite déployer
 
 - Dans la section Sources sélectionner GitHub Actions
 
-- Ajouter un fichier actions dans le repo dans .github/workflows/hugo.yml puis commit
+- Ajouter un fichier actions dans le repo dans .github/workflows/hugo.yaml puis commit
