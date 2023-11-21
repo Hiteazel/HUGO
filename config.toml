@@ -1,6 +1,6 @@
-baseURL = ''
+baseURL = 'https://hiteazel.github.io/HUGO/'
 languageCode = 'fr-FR'
-title = 'Test 2'
+title = 'Hugo'
 theme = "custom"
 
 [outputs]
