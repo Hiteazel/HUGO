@@ -3,7 +3,7 @@ disableToc = "true"
 title = "Second page"
 chapter = false
 url = "/first-tab/second-page/"
-weight = 2
+weight = 3
 +++
 
 ##
